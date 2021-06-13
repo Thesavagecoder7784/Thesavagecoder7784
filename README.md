@@ -3,7 +3,7 @@
 ### About me :
 ***I am an aspiring data scientist who belives that the power to harnessing data lies with using the right tools and rules for communication.***
 
-**I am a efficient coder in python(as you can see in my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas))**
+**I am a proficient coder in python(as you can see in my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas))**
 
 **I am also experienced in using Tableau. Check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
