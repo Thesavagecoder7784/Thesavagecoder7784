@@ -3,9 +3,9 @@
 ### About me :
 ***I am an aspiring data scientist who belives that the power to harnessing data lies with using the right tools and rules for communication.***
 
-**I am a high school student (junior year) from India.**
+**I am a high school student (junior year) with 97% class 10 from India.**
 
-**I am a coder in python(as you can see in my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas))**
+**I am a python programmer(as you can see in my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas))**
 
 **I am also experienced in using Tableau. Check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
@@ -15,8 +15,6 @@
 
 🔭 I’m currently working on creating visualizations for the modern age
 
-🌱 I’m currently learning python and advanced machine learning
+🌱 I’m currently experimenting with advanced machine learning, deep learning and natural language processing
 
 💬 Ask me about coding with python and advanced visualizations
-
-📫 How to reach me: Coming soon...
