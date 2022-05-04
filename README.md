@@ -1,4 +1,4 @@
-# Welcome to Thesavagecoder7784(aka Prabhat)'s Profile 
+# Welcome to Thesavagecoder7784's Profile 
 ## Take a look around and hope you learn something useful
 ### About me :
 ***I am an aspiring data scientist who belives that the power to harnessing data lies with using the right tools and rules for communication.***
