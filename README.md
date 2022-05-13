@@ -6,7 +6,7 @@
 **I am a high school (senior year) student 👨‍🎓**
 
 **I primarily program using python 🐍 (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas))**
-**I am also fluent in SQL and Java **
+**I am also fluent in SQL and Java**
 
 **I am also experienced in using Tableau. Check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
