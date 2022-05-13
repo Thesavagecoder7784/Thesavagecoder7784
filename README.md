@@ -1,9 +1,12 @@
 # Welcome to my profile (Thesavagecoder7784©️™️)
-## Take a look around and hope you learn something useful 
-### About me 👨🏻‍💻:
+
 ***I am an aspiring data scientist who belives that the power to harnessing data lies with using the right tools and rules for communication.***
 
-**I am a high school (senior year) student 👨‍🎓**
+### About me 🤵🏻‍♂️:
+- 1️⃣6️⃣ years old 
+- 👨‍🎓 High school (senior year) student 
+- 👨🏻‍💻 Data science intern 
+- 
 
 **I primarily program for data science, machine learning using python 🐍 (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas)). However I am comfortable using SQL and Java to solve other problems**
 
@@ -13,11 +16,11 @@
 
 📄 I'm documenting all of the machine learning and some deep learning algorithms which I use or intend to use in my data science journey in my latest repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
-📈 Another intereseting repository I have is my Natural Language Processing repositroy to document my learning process from very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc.
+📈 Another intereseting repository I have is my Natural Language Processing repositroy to document my learning process from very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
 
-🌱 I’m currently experimenting with machine learning, deep learning and natural language processing
+🌱 I’m currently developing my own Machine learning solution to help analysts (ACOMP) 
 
-💬 Ask me about implementing ML, NLP solutions and data analysis, visualization
+💬 Ask me about implementing ML, NLP solutions and data analysis, visualization 
 
 👥 Feel free out check out my Linkedin [profile](https://www.linkedin.com/in/prabhat-m-237719172/)
 
