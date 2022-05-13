@@ -8,6 +8,7 @@
 - 👨🏻‍💻 Data science intern 
 - 🧠 Working towards AI
 - ⚡ Interested in solving problems
+- 👨‍🏫 Teaching computer science for children aged 6-14
 - ⚽️ Footballer 
 
 **I primarily program for data science, machine learning using python (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas)). However I am comfortable using SQL and Java to solve other problems**
