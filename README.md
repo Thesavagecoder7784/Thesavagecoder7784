@@ -12,8 +12,10 @@
 
 ## What I do:
 - 🕵️ Data Analysis
-- Data Visualization
+- 📊 Data Visualization
+- ⚙️ Machine Learning
 - 🧠 Deep learning 
+- 🤖 Natural Language Processing (NLP)
 
 **I primarily program for data science, machine learning using python (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas)). However I am comfortable using SQL and Java to solve other problems**
 
