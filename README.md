@@ -1,6 +1,6 @@
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
-***I am an aspiring data scientist who belives that the power to harnessing data lies with using the right tools and rules for communication.***
+***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
 ## About me: 
 - 1️⃣6️⃣ years old 
