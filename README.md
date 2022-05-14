@@ -2,14 +2,18 @@
 
 ***I am an aspiring data scientist who belives that the power to harnessing data lies with using the right tools and rules for communication.***
 
-### About me: 
+## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
-- 👨🏻‍💻 Data science intern 
-- 🧠 Working towards AI
+- 👨🏻‍💻 Data science intern
 - ⚡ Interested in solving problems
 - 👨‍🏫 Teaching computer science for children aged 6-14
 - ⚽️ Footballer 
+
+## What I do:
+- 🕵️ Data Analysis
+- Data Visualization
+- 🧠 Deep learning 
 
 **I primarily program for data science, machine learning using python (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas)). However I am comfortable using SQL and Java to solve other problems**
 
