@@ -4,8 +4,6 @@
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
-![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)
-
 ## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
@@ -20,6 +18,8 @@
 - ⚙️ Machine Learning
 - 🧠 Deep learning 
 - 🤖 Natural Language Processing (NLP)
+
+![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)
 
 ## Tools and technologies I use:
 ### Languages:
