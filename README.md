@@ -1,4 +1,4 @@
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] ![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social) 
+![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social) 
 
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
@@ -66,3 +66,4 @@
 
 ### My social media profiles:
 - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
+- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] 
