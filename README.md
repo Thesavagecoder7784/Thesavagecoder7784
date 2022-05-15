@@ -4,9 +4,9 @@
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
-[![Thesavagecoder7784's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Thesavagecoder7784)](https://github.com/Thesavagecoder7784/github-readme-activity-graph)
+![Thesavagecoder7784's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Thesavagecoder7784)
 
-[![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)]
+![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)
 
 
 ## About me: 
