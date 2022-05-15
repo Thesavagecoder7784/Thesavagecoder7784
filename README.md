@@ -51,9 +51,12 @@
 
 💬 Ask me about data analysis, visualization & implementing ML, NLP solutions
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Feel free out check out my Linkedin [profile](https://www.linkedin.com/in/prabhat-m-237719172/)
-
 🎸 And while Im not coding, I might be creating covers with my guitar and wrting new songs  🎶 🎵
 
 ***Check this exciting notebook to learn about the different aspects of the English Premier League Transfers ⚽️ for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
 
+[1]: https://github.com/Thesavagecoder7784/
+
+### My social media profiles:
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Profile](https://www.linkedin.com/in/prabhat-m-237719172/)
+- [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
