@@ -18,10 +18,7 @@
 - 🤖 Natural Language Processing (NLP)
 
 ## Tools and technologies I use:
-- <img src="https://your-image-url.type" width="10" height="10"> Python
-- <img src="https://your-image-url.type" width="10" height="10"> Tableau
-
-**I primarily program for data science, machine learning using python (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas)). However I am comfortable using SQL and Java to solve other problems**
+- <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a> Python
 
 **I use Tableau for data visualization purposes and I am in the process of being certified by Tableau as a Data Scientist. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
