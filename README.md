@@ -56,11 +56,9 @@
 [6]: https://jupyter.org/
 [7]: https://www.jetbrains.com/pycharm/
 [8]: https://www.sublimetext.com/
+[9]: https://prabhatmaster2005.medium.com/
 
 ### My social media profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] 
-
-@settings {
-  font-size: 75;
-}
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][[9]
