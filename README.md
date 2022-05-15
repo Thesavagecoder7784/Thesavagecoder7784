@@ -1,7 +1,6 @@
-# Welcome to my profile (Thesavagecoder7784©️™️)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] ![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social) 
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1]
-![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social)
+# Welcome to my profile (Thesavagecoder7784©️™️)
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
