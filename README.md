@@ -19,6 +19,7 @@
 - 🧠 Deep learning 
 - 🤖 Natural Language Processing (NLP)
 
+## On GitHub:
 ![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)
 
 ## Tools and technologies I use:
