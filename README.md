@@ -37,3 +37,4 @@
 🎸 And while Im not coding, I might be creating covers with my guitar and wrting new songs  🎶 🎵
 
 ***Check this exciting notebook to learn about the different aspects of the English Premier League Transfers ⚽️ for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
+
