@@ -1,6 +1,6 @@
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) - [profile](https://github.com/Thesavagecoder7784)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)[1]
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
@@ -59,4 +59,3 @@
 
 ### My social media profiles:
 - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [Profile](https://www.linkedin.com/in/prabhat-m-237719172/)
-- [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
