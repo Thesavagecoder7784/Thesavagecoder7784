@@ -1,6 +1,7 @@
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1]
+/github/followers/:user?label=Follow
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
