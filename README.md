@@ -4,6 +4,8 @@
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Thesavagecoder7784}&theme=vue)
+
 ## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
