@@ -1,5 +1,7 @@
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
 ## About me: 
@@ -18,7 +20,7 @@
 - 🤖 Natural Language Processing (NLP)
 
 ## Tools and technologies I use:
-- [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) Python
+- 
 
 **I use Tableau for data visualization purposes and I am in the process of being certified by Tableau as a Data Scientist. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
