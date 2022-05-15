@@ -18,8 +18,8 @@
 - 🤖 Natural Language Processing (NLP)
 
 ## Tools and technologies I use:
-- ![alt text](https://github.com/Thesavagecoder7784/images/blob/master/python%20logo.jpeg) Python
-- ![alt text](https://github.com/Thesavagecoder7784/images/blob/master/tableau_logo.png) Tableau
+- ![alt text](https://github.com/Thesavagecoder7784/images/blob/master/python%20logo.jpeg  =250x250) Python
+- ![alt text](https://github.com/Thesavagecoder7784/images/blob/master/tableau_logo.png  =250x250) Tableau
 
 **I primarily program for data science, machine learning using python (my notebooks on [GitHub](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas)). However I am comfortable using SQL and Java to solve other problems**
 
