@@ -1,11 +1,10 @@
-![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social) 
+![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social)  ![Thesavagecoder7784's GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThesavagecoder77841212%2Fhit-counter)
 
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
 ![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)
-![Thesavagecoder7784's GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThesavagecoder77841212%2Fhit-counter)
 
 ## About me: 
 - 1️⃣6️⃣ years old 
