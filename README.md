@@ -6,7 +6,7 @@
 
 [![Thesavagecoder7784's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Thesavagecoder7784)](https://github.com/Thesavagecoder7784/github-readme-activity-graph)
 
-[![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username={username})]
+[![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)]
 
 
 ## About me: 
