@@ -58,9 +58,11 @@
 [8]: https://www.sublimetext.com/
 [9]: https://prabhatmaster2005.medium.com/
 [10]: https://public.tableau.com/app/profile/prabhat6777#!/
+[11]: https://app.datacamp.com/jobs/profile
 
 ### My social media profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)][1] 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][9]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10]
+Job profile : [![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][11]
