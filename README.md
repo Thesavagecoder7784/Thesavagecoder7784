@@ -37,11 +37,11 @@
 
 **I use Tableau for data visualization purposes and I am in the process of being certified by Tableau as a Data Scientist. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
-🔭 I’m currently working on some interesting projects based on machine learning and natural language processing
+🔭 I’m currently working on some interesting projects using machine learning and natural language processing
 
-📄 I'm documenting all of the machine learning and some deep learning algorithms which I use or intend to use in my data science journey in my latest repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
+📄 I'm documenting all of the machine learning algorithms and thier application to soslve a problem in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
-📈 Another intereseting repository I have is my Natural Language Processing repositroy to document my learning process from very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
+📈 Another interesting repository I have is my Natural Language Processing repositroy to document important parts of NLP from the very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
 
 🌱 I’m currently developing my own Machine learning solution to help analysts. Coming soon...
 
