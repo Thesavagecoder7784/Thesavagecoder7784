@@ -2,6 +2,8 @@
 
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg)
+
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
 
 ## About me: 
