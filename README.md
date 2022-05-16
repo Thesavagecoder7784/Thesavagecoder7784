@@ -2,6 +2,8 @@
 
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
+**[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)] Certified Data Scientist
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg)
 
 ***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
