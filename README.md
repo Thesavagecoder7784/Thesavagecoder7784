@@ -2,7 +2,7 @@
 
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
-**[![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)][14] Certified Data Scientist**
+[![Datacamp](https://img.shields.io/badge/DataCamp-Certified%20Data%20Scientist-brightgreen?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg)
 
@@ -24,7 +24,7 @@
 - 🤖 Natural Language Processing (NLP)
 
 ## On GitHub:
-![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![GitHub Activity](	https://activity-graph.herokuapp.com/graph?username={username}&theme=minimal) ![GitHub Profile stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme=vue)
 
 ## Tools and technologies I use:
 ### Languages:
@@ -34,10 +34,10 @@
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][6] [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)][7] [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)][8] 
 
 ### Python Packages:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Other services:
-  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+  ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) 
 
 **I use Tableau for data visualization purposes and I am in the process of being certified by Tableau as a Data Scientist. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
