@@ -2,7 +2,7 @@
 
 # Welcome to my profile (Thesavagecoder7784©️™️)
 
-[![Datacamp](https://img.shields.io/badge/Datacamp-05192D%20Certified%20Data%20Scientist-brightgreen?style=for-the-badge&logo=datacamp)][14]
+[![Datacamp](https://img.shields.io/badge/Datacamp%20Certified%20Data%20Scientist-brightgreen?style=for-the-badge&logo=datacamp)][14]
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg)
 
