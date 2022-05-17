@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg)
 
-***"Hiding within those mounds of data is knowledge that could change the life of a patient, or change the world.”***
-
 ## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
