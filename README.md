@@ -2,6 +2,8 @@
 
 [![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 [![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)][17]
+[![Tableau](https://img.shields.io/badge/Intermediate%20Level-05192D?style=for-the-badge&logo=tableau)[18]
+
 ## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
@@ -65,6 +67,7 @@
 [15]: https://docs.microsoft.com/en-us/users/prabhatpalraj-2349/
 [16]: https://community.anaconda.cloud/u/prabhat_m/summary
 [17]: https://coursera.org/share/c4963ddd8d948efc4513dc1e665dfcff
+[18]: https://verify.skilljar.com/c/6ibnw7wbb35r
 
 ### My social media profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
