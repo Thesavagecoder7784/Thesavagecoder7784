@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/Thesavagecoder7784/images/master/Header%20fit.png?token=GHSAT0AAAAAABTCQZIRUXSNNQFJAIJ2YIWOYUGE3HA)
 
-[![Datacamp](https://img.shields.io/badge/Datacamp%20Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
-
+[![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
+[![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)[17]
 ## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
@@ -16,7 +16,7 @@
 - 🧠 Deep learning 
 - 🤖 Natural Language Processing (NLP)
 
-## On GitHub:
+## GitHub Stats:
 ![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Tools and technologies I use:
@@ -64,6 +64,7 @@
 [14]: https://www.datacamp.com/certificate/DS0012990877714
 [15]: https://docs.microsoft.com/en-us/users/prabhatpalraj-2349/
 [16]: https://community.anaconda.cloud/u/prabhat_m/summary
+[17]: https://coursera.org/share/c4963ddd8d948efc4513dc1e665dfcff
 
 ### My social media profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
