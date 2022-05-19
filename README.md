@@ -1,6 +1,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social)  ![Thesavagecoder7784's GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThesavagecoder77841212%2Fhit-counter)
 
-# 🤵🏻 Welcome to my profile (Thesavagecoder7784©️™️)
+# 🤵🏻 Thesavagecoder7784©️™️
 
 [![Datacamp](https://img.shields.io/badge/Datacamp%20Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 
