@@ -1,9 +1,6 @@
 ![Header](https://raw.githubusercontent.com/Thesavagecoder7784/images/master/Header%20fit.png?token=GHSAT0AAAAAABTCQZIRUXSNNQFJAIJ2YIWOYUGE3HA)
 
-# 🤵🏻 Thesavagecoder7784©️™️
-
 [![Datacamp](https://img.shields.io/badge/Datacamp%20Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
-
 
 ## About me: 
 - 1️⃣6️⃣ years old 
