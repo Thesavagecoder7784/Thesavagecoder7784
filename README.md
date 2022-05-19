@@ -1,4 +1,4 @@
-![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social)  ![Thesavagecoder7784's GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThesavagecoder77841212%2Fhit-counter)
+![Header](https://raw.githubusercontent.com/Thesavagecoder7784/images/master/Screenshot%202022-05-19%20at%2012.45.04%20PM.png?token=GHSAT0AAAAAABTCQZIRLCVVP4CFK53TBXMGYUGEWLQ)
 
 # 🤵🏻 Thesavagecoder7784©️™️
 
