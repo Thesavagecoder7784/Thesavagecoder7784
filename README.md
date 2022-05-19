@@ -4,7 +4,7 @@
 
 [![Datacamp](https://img.shields.io/badge/Datacamp%20Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg) 🧑🏻‍💼
+🧑🏻‍💼 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg) 
 
 ## About me: 
 - 1️⃣6️⃣ years old 
