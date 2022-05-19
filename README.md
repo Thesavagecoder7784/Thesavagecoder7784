@@ -1,10 +1,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/Thesavagecoder7784?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/Thesavagecoder7784?affiliations=OWNER&style=social)  ![Thesavagecoder7784's GitHub Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FThesavagecoder77841212%2Fhit-counter)
 
-# Welcome to my profile (Thesavagecoder7784©️™️) 🤵🏻
+# 🤵🏻 Welcome to my profile (Thesavagecoder7784©️™️)
 
 [![Datacamp](https://img.shields.io/badge/Datacamp%20Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&multiline=true&width=500&lines=Making+the+world+a+better+place+using+data)](https://git.io/typing-svg) 🧑🏻‍💼
 
 ## About me: 
 - 1️⃣6️⃣ years old 
@@ -12,7 +12,6 @@
 - 👨🏻‍💻 Data science intern
 - ⚡ Interested in solving problems
 - 👨‍🏫 Teaching computer science for children aged 6-14
-- ⚽️ Footballer 
 
 ## What I do:
 - 🕵️ Data Analysis
