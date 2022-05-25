@@ -9,7 +9,7 @@
 - 👨‍🎓 High school (senior year) student 
 - 👨🏻‍💻 Data science intern
 - ⚡ Interested in solving problems
-- 👨‍🏫 Teaching computer science for children aged 6-14
+- 👨‍🏫 Teaching computer science for children aged 8-14
 
 ## What I do:
 - 🕵️ Data Analysis
@@ -76,5 +76,5 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][9]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10]
 
-### My Job profile :
-[![DataCamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][11]
+
+I post content based on data visualization, analysis, machine learning, deep learning and natural language processing code snippets on my twitter 🦅 
