@@ -19,7 +19,7 @@
 - 🤖 Natural Language Processing (NLP)
 
 ## GitHub Stats:
-![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) ![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Thesavagecoder7784&theme=blue-green)
+![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## Tools and technologies I use:
 ### Languages:
