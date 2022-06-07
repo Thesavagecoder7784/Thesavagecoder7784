@@ -39,11 +39,9 @@
 
 🔭 I’m currently working on some interesting projects using machine learning and natural language processing
 
-📄 I'm documenting all of the machine learning algorithms and thier application to soslve a problem in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
+📄 I'm documenting all of the machine learning algorithms and thier application to solve problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
-📈 Another interesting repository I have is my Natural Language Processing repository to document important parts of NLP from the very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
-
-🤖 Check out my Topic Sentiment Analysis which contains the application of a NLP technique- sentic computing
+📈 Another interesting repository I have is the Natural Language Processing repository to document important parts of NLP from the very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
 
 🌱 I’m currently developing my own Machine learning solution to help analysts. Coming soon...
 
