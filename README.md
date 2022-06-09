@@ -4,6 +4,8 @@
 [![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)][17]
 [![Tableau](https://img.shields.io/badge/Intermediate%20Level-05192D?style=for-the-badge&logo=tableau)][18]
 
+<img align="right" alt="GIF" height="200px" src="bar.png" style="max-width: 100%;">
+
 ## About me: 
 - 1️⃣6️⃣ years old 
 - 👨‍🎓 High school (senior year) student 
