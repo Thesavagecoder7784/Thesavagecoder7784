@@ -18,7 +18,7 @@
 - ⚙️ Machine Learning
 - 🧠 Deep learning 
 - 🤖 Natural Language Processing (NLP)
-- Web development ([My first one ](https://thesavagecoder7784.github.io) )
+- Web development - Learning ([My first one ](https://thesavagecoder7784.github.io) )
 
 ## GitHub Stats:
 ![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
