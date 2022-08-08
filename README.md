@@ -1,4 +1,5 @@
 # Thesavagecoder7784©™️ 
+## Solving problems using data... one at a time
 
 [![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 [![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)][17]
@@ -79,6 +80,5 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)][12]
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][9]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10]
-
 
 I post content based on data visualization, analysis, machine learning, deep learning and natural language processing code snippets on my twitter 🦅 
