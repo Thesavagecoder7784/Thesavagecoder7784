@@ -81,4 +81,4 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][9]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10]
 
-I post content based on data visualization, analysis, machine learning, deep learning and natural language processing code snippets on my twitter 🦅 
+I post content based on data visualization, analysis, machine learning, deep learning and natural language processing code snippets on my twitter
