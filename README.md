@@ -8,7 +8,7 @@
 
 ## About me: 
 - 1️⃣6️⃣ years old 
-- 👨‍🎓 High school (senior year) student 
+- 👨‍🎓 High school (senior) student 
 - 👨🏻‍💻 Data science intern
 - ⚡ Interested in solving problems
 - 👨‍🏫 Teaching computer science for children aged 8-14
