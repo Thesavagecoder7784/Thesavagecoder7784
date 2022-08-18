@@ -1,4 +1,5 @@
-# Thesavagecoder7784©™️ 
+# Thesavagecoder7784© Prabhat M
+
 ## Solving problems using data... one at a time
 
 [![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
