@@ -12,7 +12,7 @@
 - 👨‍🎓 High school (senior) student 
 - 👨🏻‍💻 Data science intern
 - ⚡ Interested in solving problems
-- 👨‍🏫 Teaching computer science for children aged 8-14
+- 👨‍🏫 Teaching computer science for children
 
 ## What I do:
 - 🕵️ Data Analysis
