@@ -8,7 +8,7 @@
 
 
 ## About me: 
-- 1️⃣6️⃣ years old 
+- 1️⃣7️⃣ years old 
 - 👨‍🎓 High school (senior) student 
 - 👨🏻‍💻 Data science intern
 - ⚡ Interested in solving problems
