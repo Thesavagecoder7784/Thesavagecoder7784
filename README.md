@@ -9,7 +9,7 @@
 
 ## About me: 
 - 1️⃣8️⃣ years old 
-- 👨‍🎓 University Freshman
+- 👨‍🎓 University Rising Sophomore
 - 👨🏻‍💻 Looking for internships
 - ⚡ Interested in solving problems
 
@@ -39,19 +39,15 @@
 
 **I use Tableau for data visualization purposes and I am in the process of being certified by Tableau as a Data Scientist. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
-🔭 I’m currently working on some interesting projects using machine learning and natural language processing
+🔭 I’m currently working on implementing neurosymbolic AI in the real world to solve some of the world's most important problems (primarily the healthcare sector)
 
-📄 I'm documenting all of the machine learning algorithms and thier application to solve problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
+🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository that has some of the most common algorithms that are used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
+
+📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
 📈 Another interesting repository I have is the Natural Language Processing repository to document important parts of NLP from the very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
 
-🌱 I’m currently developing my own Machine learning solution to help analysts. Coming soon...
-
-💬 Ask me about data analysis, visualization & implementing ML, NLP solutions
-
-🎸 And while Im not coding, I might be creating covers with my guitar and wrting new songs  🎶 🎵
-
-***Check this exciting notebook to learn about the different aspects of the English Premier League Transfers ⚽️ for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
+***Check this notebook to learn about the different aspects of the English Premier League Transfers ⚽️ for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
 
 [1]: https://twitter.com/PrabhatM27
 [2]: https://www.linkedin.com/in/prabhat-m-237719172/
@@ -81,4 +77,3 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][9]
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10]
 
-I post content based on data visualization, analysis, machine learning, deep learning and natural language processing code snippets on my twitter
