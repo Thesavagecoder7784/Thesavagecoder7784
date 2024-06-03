@@ -19,7 +19,6 @@
 - ⚙️ Machine Learning
 - 🧠 Deep learning 
 - 🤖 Natural Language Processing (NLP)
-- Web development
 
 ## GitHub Stats:
 ![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -41,7 +40,9 @@
 
 🔭 I’m currently working on implementing neurosymbolic AI in the real world to solve some of the world's most important problems (primarily the healthcare sector)
 
-🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository that has some of the most common algorithms that are used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
+🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository with some of the most common algorithms used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
+
+Find my latest article about it [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
 
 📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
