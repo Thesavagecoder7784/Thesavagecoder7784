@@ -46,7 +46,7 @@ Find my latest article about it [here](https://prabhatm27.medium.com/adversarial
 
 📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
-📈 Another interesting repository I have is the Natural Language Processing repository to document important parts of NLP from the very basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
+📈 Another repository I have is the Natural Language Processing repository to document important parts of NLP, from basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing, etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
 
 ***Check this notebook to learn about the different aspects of the English Premier League Transfers ⚽️ for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
 
