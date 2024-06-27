@@ -42,13 +42,14 @@
 
 🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository with some of the most common algorithms used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
 
-Find my latest article about it [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
+⚽️ My latest project is to use statistics and generative AI to identify weaknesses and strengths in English Premier League Teams this season and then potentially look into players that could be transferred into these teams, as opposed to just looking at basic stats, looking into more specific and nuanced statistics - [EPL Stats Analysis](https://github.com/Thesavagecoder7784/English-Premier-League-Stats-Analysis)
+
+Find my latest article about adversarial attacks [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
 
 📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
+I'm also documenting all of the deep learning algorithms and their application to solving problems in my repository - [Deep Learning Algorithms](https://github.com/Thesavagecoder7784/Deep-Learning-Algorithms)
 
-📈 Another repository I have is the Natural Language Processing repository to document important parts of NLP, from basic syntax to solving some problems using NLP and implementing interesting aspects of NLP such as sentic computing, etc. It can be found [here](https://github.com/Thesavagecoder7784/NaturalLanguageProcessing-NLP-)
-
-***Check this notebook to learn about the different aspects of the English Premier League Transfers ⚽️ for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
+***Check this notebook to learn about the different aspects of the English Premier League Transfers for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
 
 [1]: https://twitter.com/PrabhatM27
 [2]: https://www.linkedin.com/in/prabhat-m-237719172/
