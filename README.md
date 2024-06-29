@@ -1,6 +1,6 @@
 # Thesavagecoder7784© Prabhat M
 
-## Solving problems using data... one at a time
+## Solving problems using AI... one at a time
 
 [![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 [![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)][17]
