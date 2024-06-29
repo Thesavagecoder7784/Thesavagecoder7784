@@ -36,8 +36,6 @@
 ### Other services:
 [![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)][15] [![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)][16] ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10] ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 
-**I use Tableau for data visualization purposes and I am in the process of being certified by Tableau as a Data Scientist. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
-
 🔭 I’m currently working on implementing neurosymbolic AI in the real world to solve some of the world's most important problems (primarily the healthcare sector). I'm also looking into the practical uses of adversarial attacks and how they can be used to secure AI to prevent data breaches in the future.
 
 🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository with some of the most common algorithms used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
@@ -48,6 +46,8 @@ Find my latest article about adversarial attacks [here](https://prabhatm27.mediu
 
 📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 I'm also documenting all of the deep learning algorithms and their application to solving problems in my repository - [Deep Learning Algorithms](https://github.com/Thesavagecoder7784/Deep-Learning-Algorithms)
+
+**I use Tableau for data visualization purposes. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
 ***Check this notebook to learn about the different aspects of the English Premier League Transfers for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
 
