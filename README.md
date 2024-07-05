@@ -45,6 +45,7 @@
 Find my latest article about adversarial attacks [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
 
 📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
+
 I'm also documenting all of the deep learning algorithms and their application to solving problems in my repository - [Deep Learning Algorithms](https://github.com/Thesavagecoder7784/Deep-Learning-Algorithms)
 
 **I use Tableau for data visualization purposes. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
