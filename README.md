@@ -12,6 +12,7 @@
 - 👨‍🎓 University Rising Sophomore
 - 👨🏻‍💻 Looking for internships
 - ⚡ Interested in solving problems
+- ⚽️ Enthusiast
 
 ## What I do:
 - 🕵️ Data Analysis
