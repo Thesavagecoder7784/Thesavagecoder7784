@@ -14,7 +14,7 @@
 - ⚡ Interested in solving problems
 - ⚽️ Enthusiast
 
-## What I do:
+## What I am doing:
 - 🕵️ Data Analysis
 - 📊 Data Visualization
 - ⚙️ Machine Learning
