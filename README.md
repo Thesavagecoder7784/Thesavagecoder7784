@@ -1,6 +1,6 @@
 # Thesavagecoder7784© Prabhat M
 
-## Solving problems using AI... one at a time
+## Solving problems... one at a time
 
 [![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
 [![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)][17]
@@ -40,6 +40,8 @@
 🔭 I’m currently working on implementing neurosymbolic AI in the real world to solve some of the world's most important problems (primarily the healthcare sector). I'm also looking into the practical uses of adversarial attacks and how they can be used to secure AI to prevent data breaches in the future.
 
 🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository with some of the most common algorithms used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
+
+🏎️ As for projects, I am looking to implement ML algorithms in Formula 1 Racing to uncover insights and solve problems currently affecting the field.
 
 ⚽️ My latest project is to use statistics and generative AI to identify weaknesses and strengths in English Premier League Teams this season and then potentially look into players that could be transferred into these teams, as opposed to just looking at basic stats, looking into more specific and nuanced statistics - [EPL Stats Analysis](https://github.com/Thesavagecoder7784/English-Premier-League-Stats-Analysis)
 
