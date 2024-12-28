@@ -1,9 +1,6 @@
 # Thesavagecoder7784© Prabhat M
 Writing code no one asked for but everyone might eventually need
 
-## GitHub Stats:
-![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## Tools and technologies I use:
 ### Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)][3] [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)][4] [![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][5] [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)][13] [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][19] [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)][20] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
