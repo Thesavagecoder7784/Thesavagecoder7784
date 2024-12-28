@@ -8,7 +8,7 @@
 
 
 ## About me: 
-- 1️⃣8️⃣ years old 
+- 1️⃣9️⃣ years old 
 - 👨‍🎓 University Sophomore
 - 👨🏻‍💻 Looking for internships
 - ⚡ Interested in solving problems
