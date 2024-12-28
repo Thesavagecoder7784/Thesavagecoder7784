@@ -1,25 +1,5 @@
 # Thesavagecoder7784© Prabhat M
-
-## Solving problems... one at a time
-
-[![Datacamp](https://img.shields.io/badge/Certified%20Data%20Scientist-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)][14]
-[![Coursera](https://img.shields.io/badge/Introduction%20To%20Machine%20Learning-05192D?style=for-the-badge&logo=coursera&color=blue)][17]
-[![Tableau](https://img.shields.io/badge/Intermediate%20Level-05192D?style=for-the-badge&logo=tableau)][18]
-
-
-## About me: 
-- 1️⃣9️⃣ years old 
-- 👨‍🎓 University Sophomore
-- 👨🏻‍💻 Looking for internships
-- ⚡ Interested in solving problems
-- ⚽️ 🏎️ Enthusiast
-
-## What I do:
-- 🕵️ Data Analysis
-- 📊 Data Visualization
-- ⚙️ Machine Learning
-- 🧠 Deep learning 
-- 🤖 Natural Language Processing (NLP)
+Writing code no one asked for but everyone might eventually need
 
 ## GitHub Stats:
 ![Thesavagecoder7784's GitHub Badge](https://github-readme-stats.vercel.app/api?username=Thesavagecoder7784)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Thesavagecoder7784&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
@@ -28,28 +8,14 @@
 ### Languages:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)][3] [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)][4] [![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)][5] [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)][13] [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)][19] [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)][20] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### IDEs:
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=orange)][6] [![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)][7] [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)][8] 
 
-### Python Packages:
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+I’m currently working on implementing neurosymbolic AI in the real world to solve problems.
 
-### Other services:
-[![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)][15] [![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)][16] ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10] ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
-
-🔭 I’m currently working on implementing neurosymbolic AI in the real world to solve some of the world's most important problems (primarily the healthcare sector). I'm also looking into the practical uses of adversarial attacks and how they can be used to secure AI to prevent data breaches in the future.
-
-🧨 Right now, I am looking into how adversarial attacks impact neural networks and creating a repository with some of the most common algorithms used to attack neural networks. I am mostly using a simple CNN and the MNIST dataset to understand them - [Adversarial Attacks on Neural Networks](https://github.com/Thesavagecoder7784/Adversarial-Attack-Neural-Networks/tree/main)
-
-🏎️ As for projects, I am looking to implement ML algorithms in Formula 1 Racing to uncover insights and solve problems currently affecting the field.
-
-⚽️ My latest project is to use statistics and generative AI to identify weaknesses and strengths in English Premier League Teams this season and then potentially look into players that could be transferred into these teams, as opposed to just looking at basic stats, looking into more specific and nuanced statistics - [EPL Stats Analysis](https://github.com/Thesavagecoder7784/English-Premier-League-Stats-Analysis)
+As for projects, I want to implement ML algorithms in Formula 1 Racing to uncover insights and optimize race strategy.
 
 Find my latest article about adversarial attacks [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
 
-📄 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
-
-I'm also documenting all of the deep learning algorithms and their application to solving problems in my repository - [Deep Learning Algorithms](https://github.com/Thesavagecoder7784/Deep-Learning-Algorithms)
+I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
 **I use Tableau for data visualization purposes. For a taste of my data visualization work, check out my Tableau public profile [here](https://public.tableau.com/profile/prabhat6777#!/)**
 
@@ -57,24 +23,11 @@ I'm also documenting all of the deep learning algorithms and their application t
 
 [1]: https://twitter.com/PrabhatM27
 [2]: https://www.linkedin.com/in/prabhat-m-237719172/
-[3]: https://www.python.org/
-[4]: https://www.java.com/en/
-[5]: https://www.mysql.com/
-[6]: https://jupyter.org/
-[7]: https://www.jetbrains.com/pycharm/
-[8]: https://www.sublimetext.com/
 [9]: https://prabhatmaster2005.medium.com/
 [10]: https://public.tableau.com/app/profile/prabhat6777#!/
-[11]: https://app.datacamp.com/jobs/profile
 [12]: https://www.kaggle.com/thegreatcoder
-[13]: https://www.r-project.org/
 [14]: https://www.datacamp.com/certificate/DS0012990877714
 [15]: https://docs.microsoft.com/en-us/users/prabhatpalraj-2349/
-[16]: https://community.anaconda.cloud/u/prabhat_m/summary
-[17]: https://coursera.org/share/c4963ddd8d948efc4513dc1e665dfcff
-[18]: https://verify.skilljar.com/c/6ibnw7wbb35r
-[19]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[20]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ### My social media profiles:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
