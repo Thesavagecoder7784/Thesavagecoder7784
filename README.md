@@ -1,4 +1,4 @@
-# Thesavagecoder7784© Prabhat M
+# Thesavagecoder7784©
 Writing code no one asked for but everyone might eventually need
 
 ## Tools and technologies I use:
