@@ -1,5 +1,5 @@
 # Thesavagecoder7784©
-Writing code no one asked for but everyone might eventually need
+Writing code no one asked for but everyone might eventually need and maybe even scores free coffee.
 
 I’m currently working on implementing neurosymbolic AI in the real world to solve problems.
 
