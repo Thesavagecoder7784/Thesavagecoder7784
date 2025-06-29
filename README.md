@@ -1,7 +1,7 @@
 # Thesavagecoder7784©
-Writing code no one asked for but everyone might eventually need and maybe even gets free coffee.
+Writing code no one asked for but everyone might eventually need, and maybe even gets free coffee.
 
-I’m currently working on implementing neurosymbolic AI in the real world to solve problems.
+I’m currently working on algorithms in the quant finance space, along with that I am implementing neurosymbolic AI in the real world to solve problems.
 
 As for projects, I want to implement ML algorithms in Formula 1 Racing to uncover insights and optimize race strategy.
 
