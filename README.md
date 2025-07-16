@@ -1,15 +1,13 @@
 # Thesavagecoder7784©
-Writing code no one asked for but everyone might eventually need, and maybe even gets free coffee.
+Writing code no one asked for, but everyone might eventually need.
 
-I’m currently working on algorithms in the quant finance space, along with that I am implementing neurosymbolic AI in the real world to solve problems.
+I’m currently working on implementing algorithms in the quantitative finance space, while also developing neurosymbolic AI solutions in the real world to address problems.
 
-As for projects, I want to implement ML algorithms in Formula 1 Racing to uncover insights and optimize race strategy.
+As for projects, I want to implement algorithms in Formula 1 Racing to uncover insights and optimize race strategy.
 
 Find my latest article about adversarial attacks [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
 
 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
-
-***Check this notebook to learn about the different aspects of the English Premier League Transfers for the year 2019-2020 (Before COVID) [here](https://github.com/Thesavagecoder7784/Statistical-Data-Analysis-With-Pandas/blob/master/English%20Premier%20League%20Transfers%20Analysis%202019-20.ipynb)***
 
 [1]: https://twitter.com/PrabhatM27
 [2]: https://www.linkedin.com/in/prabhat-m-237719172/
