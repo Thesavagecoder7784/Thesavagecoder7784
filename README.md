@@ -1,9 +1,9 @@
 # Thesavagecoder7784©
 Writing code no one asked for, but everyone might eventually need.
 
-I’m currently working on implementing algorithms in the quantitative finance space, while also developing neurosymbolic AI solutions in the real world to address problems.
+I’m currently working on implementing algorithms in the quantitative finance space, while also developing neurosymbolic AI solutions for real-world applications to address specific problems.
 
-As for projects, I want to implement algorithms in Formula 1 Racing to uncover insights and optimize race strategy.
+As for projects, I want to implement algorithms in Formula 1 Racing to uncover insights and optimize race strategy. Im trying to stay consistent and post those insights on my Twitter page as well.
 
 Find my latest article about adversarial attacks [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
 
