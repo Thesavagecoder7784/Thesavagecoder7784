@@ -1,5 +1,4 @@
 # Thesavagecoder7784©
-Writing code no one asked for, but everyone might eventually need.
 
 I’m currently working on implementing algorithms and projects in the quantitative finance space, while also developing neurosymbolic AI solutions for real-world applications to address specific problems.
 
