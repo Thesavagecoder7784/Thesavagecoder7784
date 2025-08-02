@@ -1,6 +1,6 @@
 # Thesavagecoder7784©
 
-I’m currently working on implementing algorithms and projects in the quantitative finance space, while also developing neurosymbolic AI solutions for real-world applications to address specific problems.
+At the moment, I am working on implementing algorithms and projects in the quantitative finance space, while also developing neurosymbolic AI solutions for real-world applications to address specific problems.
 
 As for projects, I want to create algorithms in Formula 1 Racing to uncover insights and optimize race strategy. I'm trying to stay consistent and post those insights on my Twitter page as well.
 
