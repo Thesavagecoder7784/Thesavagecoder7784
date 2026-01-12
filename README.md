@@ -4,7 +4,7 @@ I am working on implementing algorithms and projects in quantitative finance, wh
 
 As for projects, I want to create algorithms in Formula 1 Racing to uncover insights, optimize race strategy, and maybe a winner prediction algorithm along the way as well. I'm trying to stay consistent and post those insights on my Twitter page as well.
 
-Find my most recent article about adversarial attacks [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
+Find my most recent series about Quant x F1 [here]([https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1](https://medium.com/@prabhatm27/the-sharpe-ratio-of-a-driver-what-quant-finance-can-teach-us-about-formula-1-performance-3f99c1f32d8f])
 
 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
