@@ -2,9 +2,9 @@
 
 I am working on implementing algorithms and projects in quantitative finance, while also developing neurosymbolic AI solutions for real-world applications to address specific problems, perhaps even a combination of both.
 
-As for projects, I want to create algorithms in Formula 1 Racing to uncover insights, optimize race strategy, and maybe a winner prediction algorithm along the way as well. I'm trying to stay consistent and post those insights on my Twitter page as well.
+As for projects, I am currently applying quantitative finance concepts to Formula 1 Racing data to uncover insights, optimize race strategy, and maybe a winner prediction algorithm along the way as well. I'm trying to stay consistent and post those insights as well.
 
-Find my most recent series about Quant x F1 [here](https://prabhatm27.medium.com/adversarial-attacks-on-neural-networks-460aaf8ddfb1)
+Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-alpha-of-a-driver-separating-skill-from-machinery-in-formula-1-ebe0f9c099dd)
 
 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
