@@ -1,10 +1,10 @@
 # Thesavagecoder7784©
 
-I am working on implementing algorithms and projects in quantitative finance, while also developing neurosymbolic AI solutions for real-world applications to address specific problems, perhaps even a combination of both.
+I am working on implementing algorithms and projects in quantitative finance, while also developing neurosymbolic AI solutions for real-world applications to address specific problems, perhaps in combination.
 
-As for projects, I am currently applying quantitative finance concepts to Formula 1 Racing data to uncover insights, optimize race strategy, and maybe a winner prediction algorithm along the way as well. I'm trying to stay consistent and post those insights as well.
+As for projects, I am currently applying quantitative finance concepts to Formula 1 Racing data to uncover insights, optimize race strategy, and maybe develop a winner-prediction algorithm along the way. I'm trying to stay consistent and post those insights as well.
 
-Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-alpha-of-a-driver-separating-skill-from-machinery-in-formula-1-ebe0f9c099dd)
+Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-physics-of-failure-measuring-drawdown-recovery-in-formula-1-02a67c73ff13)
 
 I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
 
