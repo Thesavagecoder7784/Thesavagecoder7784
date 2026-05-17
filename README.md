@@ -1,28 +1,36 @@
-# Thesavagecoder7784©
+# Prabhat M
 
-I am working on implementing algorithms and projects in quantitative finance, while also developing neurosymbolic AI solutions for real-world applications to address specific problems, perhaps in combination.
+Math & Statistics @ Purdue (BSc, May 2027)  
+Quantitative finance, sports analytics, and applied ML.
 
-As for projects, I am currently applying quantitative finance concepts to Formula 1 Racing data to uncover insights, optimize race strategy, and maybe develop a winner-prediction algorithm along the way. I'm trying to stay consistent and post those insights as well.
+## Currently
+
+- **Hexaware Technologies** — Data Science / ML Intern (May - Aug 2026)
+- **Finalizing the QuantF1 methodology paper** 
+- **Preparing FT applications** for quant research and quant SWE
 
 Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-physics-of-failure-measuring-drawdown-recovery-in-formula-1-02a67c73ff13)
 
-I'm documenting all of the machine learning algorithms and their application to solving problems in my repository - [Machine Learning Algorithms](https://github.com/Thesavagecoder7784/Machine-Learning-Algorthims)
+## Featured
 
-### Languages:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+🏎️ **[QuantF1](https://github.com/Thesavagecoder7784/QuantF1)**  
+A quantitative framework for understanding Formula 1 driver performance under uncertainty. Hierarchical Bayesian foundational regression, 8 measurement dimensions, predictive validity testing. Paper forthcoming on arXiv, September 2026.
 
-### My profiles:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)][2]
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)][1] 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)][12]
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][9]
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)][10]
+📊 **[Quant-Finance](https://github.com/Thesavagecoder7784/Quant-Finance)**  
+Implementation library covering option pricing, credit risk, factor models, portfolio optimization, and live paper trading. 170+ commits across the graduate quant finance syllabus.
 
-[1]: https://twitter.com/PrabhatM27
-[2]: https://www.linkedin.com/in/prabhat-m-237719172/
-[3]: https://www.python.org/
-[9]: https://prabhatm27.medium.com/
-[10]: https://public.tableau.com/app/profile/prabhat6777#!/
-[12]: https://www.kaggle.com/thegreatcoder
-[14]: https://www.datacamp.com/certificate/DS0012990877714
-[15]: https://docs.microsoft.com/en-us/users/prabhatpalraj-2349/
+🩺 **[Neurosymbolic-AI-Disease-Predictor](https://github.com/Thesavagecoder7784/Neurosymbolic-AI-Disease-Predictor)**  
+Hybrid neurosymbolic system combining rule-based clinical reasoning with neural pattern recognition. Dockerized Flask app, CI pipeline.
+
+🎬 **[DeepLearningforMovieRecommendation](https://github.com/Thesavagecoder7784/DeepLearningforMovieRecommendation)**  
+Hybrid recommender combining collaborative and content-based filtering. *Cited in Lavreniuk and Potapova (2025), Applied Information Technologies, Vasyl' Stus Donetsk National University.*
+
+## Selected For
+
+- **Emergent Ventures India** (Tyler Cowen, Mercatus Center) — UltraRice, 501(c)(3)
+- **The Knowledge Society 2022** — globally selective youth innovation cohort
+- **Purdue College of Liberal Arts Research Academy** (2025-present)
+
+## Connect
+
+[Personal site](https://thesavagecoder7784.github.io) · [Medium](https://prabhatm27.medium.com) · [LinkedIn](https://linkedin.com/in/prabhat-m-237719172/) · [X](https://x.com/PrabhatM27)
