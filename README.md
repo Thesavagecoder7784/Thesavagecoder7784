@@ -29,7 +29,6 @@ Hybrid recommender combining collaborative and content-based filtering. *Cited i
 
 - **Emergent Ventures India** (Tyler Cowen, Mercatus Center) — UltraRice, 501(c)(3)
 - **The Knowledge Society 2022** — globally selective youth innovation cohort
-- **Purdue College of Liberal Arts Research Academy** (2025-present)
 
 ## Connect
 
