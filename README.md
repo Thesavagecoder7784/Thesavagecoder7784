@@ -5,9 +5,8 @@ Quantitative finance, sports analytics, and applied ML.
 
 ## Currently
 
-- **Hexaware Technologies** — Data Science / ML Intern (May - Aug 2026)
+- **Hexaware Technologies** — SLMs and Agentic AI Intern (May - Aug 2026)
 - **Finalizing the QuantF1 methodology paper** 
-- **Preparing FT applications** for quant research and quant SWE
 
 Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-physics-of-failure-measuring-drawdown-recovery-in-formula-1-02a67c73ff13)
 
