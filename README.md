@@ -13,7 +13,7 @@ Find my most recent article in the Quant x F1 series [here](https://prabhatm27.m
 ## Featured
 
 🏎️ **[QuantF1](https://github.com/Thesavagecoder7784/QuantF1)**  
-A quantitative framework for understanding Formula 1 driver performance under uncertainty. Hierarchical Bayesian foundational regression, 8 measurement dimensions, predictive validity testing. Paper forthcoming on arXiv, September 2026.
+A nine-dimensional behavioral analytics framework for Formula 1 driver performance evaluation under uncertainty. Hierarchical Bayesian foundational regression at lap grain across the 2022-2025 ground-effect era (76,268 dry laps, 90 races, 31 drivers), with constructor-race deviations, stint random effects, and compound-specific spline tyre wear. Paper forthcoming Fall 2026. Repository private pending submission.
 
 📊 **[Quant-Finance](https://github.com/Thesavagecoder7784/Quant-Finance)**  
 Implementation library covering option pricing, credit risk, factor models, portfolio optimization, and live paper trading. 170+ commits across the graduate quant finance syllabus.
