@@ -17,6 +17,9 @@ Find my most recent article in the Quant x F1 series [here](https://prabhatm27.m
 
 ## Featured
 
+⚽ **[xResidual](https://github.com/Thesavagecoder7784/xResidual)**  
+Market-first prediction-market analytics for the 2026 World Cup: a pre-registered, no-lookahead backtest that treats Kalshi/Polymarket prices as the benchmark, combining a coherent joint tournament simulation, cross-venue arbitrage scanning, and millisecond in-play capture, with correlation-aware Kelly sizing. Forecast-encompassed against FiveThirtyEight SPI; logged 24/7 by an always-on cloud collector and paper-traded end-to-end.
+
 🏎️ **[QuantF1](https://github.com/Thesavagecoder7784/QuantF1)**  
 Hierarchical Bayesian framework for driver performance attribution in Formula 1, separating car effects, driver skill, and race-condition variance across 2022-2025 telemetry. Methodology paper targeting q-fin.ST/stat.AP, Fall 2026. Repo private pending submission.
 
@@ -24,7 +27,7 @@ Hierarchical Bayesian framework for driver performance attribution in Formula 1,
 Implementation library covering option pricing, credit risk, factor models, and portfolio optimization. Includes a live paper-trading harness running daily strategies via GitHub Actions, and time-series forecasting baselines benchmarked against Kalshi prediction markets.
 
 🩺 **[Neurosymbolic-AI-Disease-Predictor](https://github.com/Thesavagecoder7784/Neurosymbolic-AI-Disease-Predictor)**  
-Implementation library covering option pricing, credit risk, factor models, and portfolio optimization. Includes a live paper-trading harness running daily strategies via GitHub Actions, and time-series forecasting baselines benchmarked against Kalshi prediction markets.
+The NeuroSymbolic Disease Predictor is an AI system that predicts diseases based on user-entered symptoms. It combines neural networks and symbolic reasoning to provide accurate and explainable predictions.
 
 🎬 **[DeepLearningforMovieRecommendation](https://github.com/Thesavagecoder7784/DeepLearningforMovieRecommendation)**  
 Hybrid recommender combining collaborative and content-based filtering. *Cited in academic research (Lavreniuk and Potapova, 2025, Applied Information Technologies).*
