@@ -18,10 +18,10 @@ Find my most recent article in the Quant x F1 series [here](https://prabhatm27.m
 ## Featured
 
 ⚽ **[xResidual](https://github.com/Thesavagecoder7784/xResidual)**  
-Market-first prediction-market analytics for the 2026 World Cup: a pre-registered, no-lookahead backtest that treats Kalshi/Polymarket prices as the benchmark, combining a coherent joint tournament simulation, cross-venue arbitrage scanning, and millisecond in-play capture, with correlation-aware Kelly sizing. Forecast-encompassed against FiveThirtyEight SPI; logged 24/7 by an always-on cloud collector and paper-traded end-to-end.
+Live prediction-market study of all 104 matches of the 2026 World Cup: pre-registered, falsifiable forecasts (graded publicly Jul 19) benchmarked against Kalshi, Polymarket, and de-vigged bookmaker consensus. Format-aware Monte Carlo tournament sim over an Elo + Skellam baseline, millisecond-stamped in-play order-book capture on a 24/7 cloud collector, CORP calibration, 112 unit tests. Honest finding: the apparent cross-venue gap is mostly overround, not free money.
 
 🏎️ **[QuantF1](https://github.com/Thesavagecoder7784/QuantF1)**  
-Hierarchical Bayesian framework for driver performance attribution in Formula 1, separating car effects, driver skill, and race-condition variance across 2022-2025 telemetry. Methodology paper targeting q-fin.ST/stat.AP, Fall 2026. Repo private pending submission.
+Hierarchical Bayesian framework for driver performance attribution in Formula 1, separating car effects, driver skill, and race-condition variance across 2022-2025 telemetry. Methodology paper targeting q-fin.ST/stat.AP, August 2026. Repo private pending submission.
 
 📊 **[Quant-Finance](https://github.com/Thesavagecoder7784/Quant-Finance)**  
 Implementation library covering option pricing, credit risk, factor models, and portfolio optimization. Includes a live paper-trading harness running daily strategies via GitHub Actions, and time-series forecasting baselines benchmarked against Kalshi prediction markets.
