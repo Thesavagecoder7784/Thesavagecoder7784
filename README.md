@@ -5,26 +5,28 @@ Quantitative finance, sports analytics, and applied ML.
 
 ## Currently
 
-- **Hexaware Technologies** — SLMs and Agentic AI Intern (May - Aug 2026)
-- **Finalizing the QuantF1 methodology paper**
+- Hexaware Technologies — SLMs and Agentic AI Intern (May – Aug 2026)
+- xResidual — preprint shipping to SSRN/arXiv (World Cup prediction-market microstructure)
+- QuantF1 — methodology paper in revision, targeting stat.AP (Fall 2026)
 
-## Past
+## Recent
 
-- Hotkeys Holding LLC — SWE Intern (Feb - May 2025): WebSockets + RabbitMQ inference pipeline, RAG retrieval optimization
+- Jump Trading Probability Cup — top 20% of forecasters (343 settled forecasts, +2.8 RBP vs. crowd)
 - ML@Purdue TSA-Kalshi — Forecasting Kalshi prediction markets, owning ARIMA/SARIMAX baselines [Repository](https://github.com/ubean-nn/trading-on-Kalshi-w-ML)
+- Hotkeys Holding LLC — SWE Intern (Feb – May 2025): WebSockets inference pipeline, RAG retrieval optimization
 
 Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-physics-of-failure-measuring-drawdown-recovery-in-formula-1-02a67c73ff13)
 
 ## Featured
 
 ⚽ **[xResidual](https://github.com/Thesavagecoder7784/xResidual)**  
-Live prediction-market study of all 104 matches of the 2026 World Cup: pre-registered, falsifiable forecasts (graded publicly Jul 19) benchmarked against Kalshi, Polymarket, and de-vigged bookmaker consensus. Format-aware Monte Carlo tournament sim over an Elo + Skellam baseline, millisecond-stamped in-play order-book capture on a 24/7 cloud collector, CORP calibration, 112 unit tests. Honest finding: the apparent cross-venue gap is mostly overround, not free money.
+Live, pre-registered study of how Kalshi and Polymarket priced all 104 matches of the 2026 World Cup, graded publicly on Jul 19 (6 pass / 2 fail / 3 inconclusive). Millisecond-stamped in-play order-book capture on a 24/7 collector; the headline result: Polymarket leads cross-venue price discovery (~81% information share) but the lead is 0% harvestable at size — adverse selection observed in real time, not alpha. 115 tests, content-hash provenance, every number reproducible.
 
 🏎️ **[QuantF1](https://github.com/Thesavagecoder7784/QuantF1)**  
-Hierarchical Bayesian framework for driver performance attribution in Formula 1, separating car effects, driver skill, and race-condition variance across 2022-2025 telemetry. Methodology paper targeting q-fin.ST/stat.AP, August 2026. Repo private pending submission.
+Hierarchical Bayesian attribution of driver vs. car in Formula 1 across 76K fuel-corrected race laps (2022–25). Decomposes points variance into ~70% pace / 26% conversion / 4% luck, and proves the harder half — absolute driver skill — is only weakly identified (AKM limited-mobility), stating loudly what the data can't tell you. Paper in revision, targeting stat. AP. Repo private pending submission.
 
 📊 **[Quant-Finance](https://github.com/Thesavagecoder7784/Quant-Finance)**  
-Implementation library covering option pricing, credit risk, factor models, and portfolio optimization. Includes a live paper-trading harness running daily strategies via GitHub Actions, and time-series forecasting baselines benchmarked against Kalshi prediction markets.
+Implementation library: option pricing (through exotics), credit risk, factor models, portfolio optimization. Includes a live paper-trading harness running daily strategies via GitHub Actions and time-series baselines benchmarked against Kalshi markets.
 
 🩺 **[Neurosymbolic-AI-Disease-Predictor](https://github.com/Thesavagecoder7784/Neurosymbolic-AI-Disease-Predictor)**  
 The NeuroSymbolic Disease Predictor is an AI system that predicts diseases based on user-entered symptoms. It combines neural networks and symbolic reasoning to provide accurate and explainable predictions.
@@ -41,6 +43,7 @@ Hybrid recommender combining collaborative and content-based filtering. *Cited i
 
 - QuantF1 series: [Sharpe](https://prabhatm27.medium.com/the-sharpe-ratio-of-a-driver-what-quant-finance-can-teach-us-about-formula-1-performance-3f99c1f32d8f), [Sortino](https://prabhatm27.medium.com/the-sortino-ratio-of-a-driver-measuring-controlled-aggression-in-f1-b2ca4dd0029b), [Execution Profile](https://prabhatm27.medium.com/the-execution-profile-of-a-driver-measuring-performance-beyond-the-results-table-aeda8202f423), [Alpha](https://prabhatm27.medium.com/the-alpha-of-a-driver-separating-skill-from-machinery-in-formula-1-ebe0f9c099dd), [Drawdown](https://prabhatm27.medium.com/the-physics-of-failure-measuring-drawdown-recovery-in-formula-1-02a67c73ff13)
 - [Neurosymbolic AI essay](https://prabhatm27.medium.com/beyond-deep-learning-the-rise-of-neurosymbolic-ai-exploring-the-cutting-edge-hybrid-approach-to-c8e776132c42), Sep 2024
+- Recommender-system write-up cited in peer-reviewed research (Lavreniuk & Potapova, 2025)
 
 ## Connect
 
