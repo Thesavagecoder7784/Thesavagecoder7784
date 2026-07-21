@@ -5,15 +5,15 @@ Quantitative finance, sports analytics, and applied ML.
 
 ## Currently
 
-- Hexaware Technologies — SLMs and Agentic AI Intern (May – Aug 2026)
-- xResidual — preprint shipping to SSRN/arXiv (World Cup prediction-market microstructure)
-- QuantF1 — methodology paper in revision, targeting stat.AP (Fall 2026)
+- Hexaware Technologies - SLMs and Agentic AI Intern (May – Aug 2026)
+- xResidual - preprint shipping to SSRN/arXiv (World Cup prediction-market microstructure)
+- QuantF1 - methodology paper in revision, targeting stat.AP (Fall 2026)
 
 ## Recent
 
-- Jump Trading Probability Cup — top 20% of forecasters (343 settled forecasts, +2.8 RBP vs. crowd)
-- ML@Purdue TSA-Kalshi — Forecasting Kalshi prediction markets, owning ARIMA/SARIMAX baselines [Repository](https://github.com/ubean-nn/trading-on-Kalshi-w-ML)
-- Hotkeys Holding LLC — SWE Intern (Feb – May 2025): WebSockets inference pipeline, RAG retrieval optimization
+- Jump Trading Probability Cup - top 20% of forecasters (343 settled forecasts, +2.8 RBP vs. crowd)
+- ML@Purdue TSA-Kalshi - Forecasting Kalshi prediction markets, owning ARIMA/SARIMAX baselines [Repository](https://github.com/ubean-nn/trading-on-Kalshi-w-ML)
+- Hotkeys Holding LLC - SWE Intern (Feb – May 2025): WebSockets inference pipeline, RAG retrieval optimization
 
 Find my most recent article in the Quant x F1 series [here](https://prabhatm27.medium.com/the-physics-of-failure-measuring-drawdown-recovery-in-formula-1-02a67c73ff13)
 
